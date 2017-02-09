@@ -1,0 +1,9 @@
+{
+  "name": "citeproc-js",
+  "license": "(AGPL-3.0 OR CPAL-1.0)",
+  "version": "1.1.150",
+  "description": "A JavaScript implementation of the Citation Style Language (CSL) https://citeproc-js.readthedocs.io",
+  "repository": "https://github.com/Juris-M/citeproc-js",
+  "main": "citeproc.js",
+  "files": ["citeproc.js"]
+}
